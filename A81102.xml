@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An earnest plea for constant attendance at the Lord's table In a sermon preach'd June 4.1696. By T. Cruso.</title>
+            <author>Cruso, Timothy, 1656?-1697.</author>
+         </titleStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81102</idno><idno type="EEBO-CITATION">99895486</idno>
+  <idno type="VID">152924</idno>
+  <idno type="EEBO-PROQUEST">2240920248</idno>
+  
+            <idno type="STC">Wing C7437B</idno>
+            <idno type="STC">ESTC R229663</idno>
+            <idno type="PROQUEST">99895486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895486e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2333:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An earnest plea for constant attendance at the Lord's table In a sermon preach'd June 4.1696. By T. Cruso.</title>
+                  <author>Cruso, Timothy, 1656?-1697.</author>
+               </titleStmt>
+               <extent>[4], iv, 36, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Cockeril senr &amp; junr, at the Three Legs in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title and two final advertisement leaves.</note>
+                  <note>Reproduction of original in Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Spiritual life --  Early works to 1800.</term>
+               <term type="topical_term">Lord's Supper --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:152924:1"/>
+            <p>AN EARNEST PLEA FOR Constant Attendance AT THE <hi>Lord's Table,</hi> &amp;c.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:152924:2"/>
+            <p>AN EARNEST PLEA FOR Constant Attendance AT THE Lord's Table.</p>
+            <p>IN A SERMON Preach'd <hi>June</hi> 4. 1696.</p>
+            <p>By <hi>T. CRƲSO.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 Chron. 30.23.</hi>
+               </bibl>
+               <p>And the whole assembly took counsel to keep other seven days, and they kept other seven days with gladness.</p>
+            </q>
+            <p>
+               <hi>London:</hi> Printed for <hi>Tho. Cockerill,</hi> Sen<seg rend="sup">r</seg> &amp; Jun<seg rend="sup">r</seg>, at the <hi>Three Legs</hi> in the <hi>Poultrey.</hi> 1696.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152924:3"/>
+            <pb n="i" facs="tcp:152924:3"/>
+            <head>THE PREFACE.</head>
+            <p>THere is no sadder Sym<g ref="char:EOLhyphen"/>ptom of the declining state of Religion at this day in the World, than the notorious Abatement of its <hi>Vital Heat</hi> among those that <hi>seem to be Religious;</hi> the Prophetical Saying of our Lord,<note place="margin">Mat. 24.12.</note>
+               <hi>That the Love of many should wax cold,</hi> being in various respects fulfilled upon us. A<g ref="char:EOLhyphen"/>mong other tokens of it, the little <hi>Delight</hi> which is taken in
+<pb n="ii" facs="tcp:152924:4"/>
+               <hi>approaching to God,</hi> is cer<g ref="char:EOLhyphen"/>tainly none of the least: His <hi>Highways</hi> are too much <hi>un<g ref="char:EOLhyphen"/>trodden</hi> by some, and others go on in them only as a <hi>beaten customary Road.</hi> The most have too soon forgotten the Dif<g ref="char:EOLhyphen"/>ficulties and <hi>Restraints</hi> which they were under a few Years ago, and discover a very slender sense of the Goodness of God in their present <hi>Liberty.</hi> There are such as envy us our <hi>Exter<g ref="char:EOLhyphen"/>nal Enlargements,</hi> like those <hi>Philistines</hi> of old, who said, <hi>Behold the Hebrews come forth out of the holes where they had hid themselves.</hi>
+               <note place="margin">1 Sam. 14.11.</note> But to what purpose hath God <hi>open'd such a door,</hi> if we be
+<pb n="iii" facs="tcp:152924:4"/>not <hi>inwardly enlarg'd</hi> also, when we appear before him, so as to <hi>draw water with joy out of</hi> our restored <hi>wells of salvation?</hi> Having long ob<g ref="char:EOLhyphen"/>served with grief and shame the remissness of multitudes in this case, I should think that I had not <hi>obtained mercy of the Lord to be faithful,</hi> if I had not used some Endeavours to rectify it, especially among those that are under my Immediate Care: And with that Design the following Sermon was preached (as well as several others on the like <hi>Occasion</hi>), but without the least thought of thus divul<g ref="char:EOLhyphen"/>ging it, till they who have the greatest power over me in such
+<pb n="iv" facs="tcp:152924:5"/>things, even <hi>wrested</hi> it out of my hands. I heartily pray, That it may answer the End of their Importunate Request, and of my Forced Compliance, by con<g ref="char:EOLhyphen"/>vincing and reforming the <hi>Guil<g ref="char:EOLhyphen"/>ty,</hi> and by confirming and quick<g ref="char:EOLhyphen"/>ning those that are most <hi>Inno<g ref="char:EOLhyphen"/>cent,</hi> in the matter which is here particularly spoken of.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>June 8. 1696</hi>
+                  </date>
+               </dateline>
+               <signed>T. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:152924:5"/>
+            <head>An Earnest Plea for Constant Attendance at the Lord's Table.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 SAM. XX. 27.</hi>
+                  </bibl>
+                  <p>And it came to pass on the morrow, which was the second day of the month, that David's place was empty; and Saul said unto Jo<g ref="char:EOLhyphen"/>nathan hsi Son, Wherefore cometh not the son of Jesse to meat neither yesterday, nor to day?</p>
+               </q>
+            </epigraph>
+            <p>THE causeless Hatred and Enmity of <hi>Saul</hi> a<g ref="char:EOLhyphen"/>gainst <hi>David,</hi> tho ve<g ref="char:EOLhyphen"/>ry great, was scarcely greater than the Friendship and Affection which was between <hi>David</hi> and <hi>Jonathan;</hi> so that
+<pb n="2" facs="tcp:152924:6"/>they freely and safely <hi>told all their hearts</hi> unto each other. <hi>David</hi> therefore having reason to suspect some mischievous de<g ref="char:EOLhyphen"/>sign in <hi>Saul</hi> against his Life, and fearing to venture himself in his presence any more till he was better satisfied that he might do it without danger, consults with <hi>Jonathan</hi> about this matter. The great difficulty was, how to excuse his absence at the <hi>ap<g ref="char:EOLhyphen"/>proaching season,</hi> in which his Company was expected more than at other times.<note place="margin">V. 5.</note>
+               <hi>And David said unto Jonathan, Behold, to morrow is the New-Moon, and I should not fail to sit with the King at meat.</hi>
+               <note place="margin">V. 18.</note> Again, <hi>Jonathan said unto David, To morrow is the new-moon, and thou shalt be missed, because thy seat will be empty.</hi> But an Apology being contrived, which <hi>Jonathan</hi> was to make for him, <hi>David</hi> resolves to with<g ref="char:EOLhyphen"/>draw
+<pb n="3" facs="tcp:152924:6"/>draw himself,<note place="margin">V. 24, 25.</note> and the <hi>New-Moon</hi> comes, and the <hi>King</hi> sits down to meat, and <hi>David</hi>'s Place is empty. However, <hi>Saul</hi> takes no notice of it <hi>that day,</hi> because he thought that <hi>David</hi> might be <hi>accidentally polluted,</hi> and so unfit to come to the <hi>King's Table,</hi> or to partake of that <hi>Solemnity: Something hath befallen him,</hi>
+               <note place="margin">V. 26.</note>
+               <hi>he is not clean, surely he is not clean: q. d.</hi> there is nothing but defile<g ref="char:EOLhyphen"/>ment which will make him for<g ref="char:EOLhyphen"/>bear. This supposition <hi>Saul</hi> con<g ref="char:EOLhyphen"/>tented himself the more easily with, because <hi>those kinds</hi> of pol<g ref="char:EOLhyphen"/>lution lasted but for <hi>one day,</hi> and the persons so defiled were only <hi>unclean till the Even,</hi> (as there are many Instances, <hi>Levit.</hi> 11. <hi>chap.</hi> and 15.); and therefore he suspended all discourse about it till the next day, of which the Text gives us an account; <hi>And it come to pass on the morrow,
+<pb n="4" facs="tcp:152924:7"/>which was the second day of the month,</hi> &amp;c.</p>
+            <p>
+               <hi>Saul</hi> reckons his Son <hi>Jonathan</hi> the fittest person to enquire of, because of his known Intimacy with <hi>David,</hi> for which he up<g ref="char:EOLhyphen"/>braids him, <hi>v.</hi> 30. and he calls <hi>David</hi> here by no other name than the <hi>Son of Jesse,</hi> in a way of disdain, with respect to the meanness of his Original; as we find that <hi>Doeg</hi> did afterwards, <hi>c.</hi> 22.9. and <hi>Nabal</hi> also, <hi>c.</hi> 25.10. <hi>Saul</hi> had malice and mischief in his heart, and was now enra<g ref="char:EOLhyphen"/>ged at his disappointment of an opportunity to execute it. This seems to be the Reason and Ground of his putting the <hi>Que<g ref="char:EOLhyphen"/>stion</hi> at this time; but it is a Question which may and should be put in <hi>all like cases,</hi> from a bet<g ref="char:EOLhyphen"/>ter Principle, and to a better Purpose. As will appear in the handling of this Point (which
+<pb n="5" facs="tcp:152924:7"/>is fairly enough deducible) from the Words.</p>
+            <div type="part">
+               <head>Repeated Omissions of Solemn Services, <label type="milestone">
+                     <seg type="milestoneunit">Obs. </seg>
+                  </label> are to be strictly ac<g ref="char:EOLhyphen"/>counted for.</head>
+               <p>And here I propose to shew,
+<list>
+                     <item>
+                        <hi>First,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="I"/> What these <hi>Solemn Ser<g ref="char:EOLhyphen"/>vices</hi> are?</item>
+                     <item>
+                        <hi>Secondly,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="II"/> What <hi>Omissions</hi> of them are sinful?</item>
+                     <item>
+                        <hi>Thirdly,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="III"/> How they are to be <hi>accounted for?</hi>
+                     </item>
+                     <item>
+                        <hi>Fourthly,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Why they must be so?</item>
+                     <item>
+                        <hi>Fifthly,</hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="V"/> Use.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>First,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> What these <hi>Solemn Ser<g ref="char:EOLhyphen"/>vices</hi> are? <hi>Ans.</hi> In short, such as are of a <hi>superior</hi> nature to the <hi>ordinary Acts of Religious Wor<g ref="char:EOLhyphen"/>ship;</hi> and such as may be distin<g ref="char:EOLhyphen"/>guish'd from them by these fol<g ref="char:EOLhyphen"/>lowing Characters, which it
+<pb n="6" facs="tcp:152924:8"/>will be enough to name. 1. Such as carry in them a <hi>special Meaning</hi> and Signification. 2. Such as are of <hi>special Benefit</hi> and Advan<g ref="char:EOLhyphen"/>tage. 3. Such as require and call for a <hi>special Preparation.</hi> 4. Such as have a <hi>special conjun<g ref="char:EOLhyphen"/>ction of Duties</hi> in their Perfor<g ref="char:EOLhyphen"/>mance. Of this kind was the <hi>Service of the New Moon,</hi> referr'd to in the Text; and of this kind is our <hi>Lord's Supper,</hi> which I aim at in this Discourse. I shall speak a little severally unto both.</p>
+               <p>
+                  <hi>First,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Of this <hi>solemn</hi> kind was the Service of the <hi>New-Moon,</hi> which the Text hath a relation to. This will be evident, if we consider briefly these three things; The Nature of it in ge<g ref="char:EOLhyphen"/>neral; The particular Manner of its Celebration; and, The Ends of its Institution.</p>
+               <p n="1">
+                  <pb n="7" facs="tcp:152924:8"/> 1. The <hi>Nature</hi> of it <hi>in general.</hi> There were <hi>various Sacred Ser<g ref="char:EOLhyphen"/>vices</hi> appointed by God among the <hi>Jews</hi> of old; they had, 1. Their <hi>Daily Service,</hi> the <hi>Morn<g ref="char:EOLhyphen"/>ing and Evening Sacrifice.</hi> 2. Their <hi>Weekly</hi> Service, every <hi>Sabbath.</hi> 3. Their <hi>Monthly</hi> Service, every <hi>New-Moon.</hi> 4. Their <hi>Yearly</hi> Ser<g ref="char:EOLhyphen"/>vices, principally in the three great Feasts of the <hi>Passover, Pentecost,</hi> and <hi>Tabernacles.</hi> All which we have mentioned toge<g ref="char:EOLhyphen"/>ther, 2 <hi>Chron.</hi> 8.13. and 31.3. Now this Monthly Service was a <hi>peculiar stated Ordinance,</hi> differ<g ref="char:EOLhyphen"/>ing from the rest;<note place="margin">Leusd, Philol. Hebraeo Mixt. <hi>p. 247, 248.</hi>
+                  </note> as to the <hi>pun<g ref="char:EOLhyphen"/>ctual time</hi> of observing which, it seems more probable that they were guided by certain <hi>Astro<g ref="char:EOLhyphen"/>nomical Calculation,</hi> than by the <hi>first appearance</hi> of the Moon to their own view, as some have supposed.</p>
+               <p n="2">
+                  <pb n="8" facs="tcp:152924:9"/> 2. The <hi>particular Manner</hi> of its <hi>Celebration;</hi> which takes in these five things. 1. <hi>Abstaining from servile works,</hi> and secular Employments; from bodily La<g ref="char:EOLhyphen"/>bour, and from all sorts of <hi>Traf<g ref="char:EOLhyphen"/>fick</hi> and Commerce. Therefore they in the <hi>Prophet</hi> are repre<g ref="char:EOLhyphen"/>sented saying,<note place="margin">Amos 8.5.</note>
+                  <hi>When will the New-Moon be gone, that we may sell Corn?</hi> 2. <hi>Attending on the Mi<g ref="char:EOLhyphen"/>nistry of the Word:</hi> Which is in<g ref="char:EOLhyphen"/>timated by that Passage of the <hi>Shunamite</hi>'s Husband, when she was going to <hi>Elisha;</hi>
+                  <note place="margin">2 Kin. 4.23.</note>
+                  <hi>Wherefore wilt thou go to him to day? It is neither New-Moon, nor Sabbath.</hi> Because at <hi>both</hi> those times it was usual to repair to the Pro<g ref="char:EOLhyphen"/>phets and <hi>Holy Men of God,</hi> for their Instruction in the matters of Religion. 3. The <hi>offering of extraordinary Sacrifices,</hi> over and above what they were obli<g ref="char:EOLhyphen"/>ged to offer upon other common
+<pb n="9" facs="tcp:152924:9"/>days; which we have the posi<g ref="char:EOLhyphen"/>tive Law for, <hi>Num,</hi> 28.11.—15. <hi>Ezek.</hi> 46.6, 7. 4. The <hi>blowing of Trumpets;</hi> as their custom was upon days of Gladness and Rejoicing, and which was ex<g ref="char:EOLhyphen"/>presly enjoin'd now, <hi>Num.</hi> 10.10. <hi>Psal.</hi> 81.3. 5. <hi>Feasting upon the remainders of their Sacrifices;</hi> which was allowed to be done, not only on the day wherein they were offer'd, but the <hi>next following day</hi> also, <hi>Lev.</hi> 7.16. and 19.6. And therefore we read in the Text, of the Feast which was <hi>begun</hi> on the first day of the Month, that it was <hi>continued</hi> to the second, without going <hi>be<g ref="char:EOLhyphen"/>yond the Law,</hi> which some have thought that they took liberty to do.</p>
+               <p n="3">3. The <hi>Ends</hi> of its <hi>Institution,</hi> which ('tis likely) were such as these: 1. To call off the <hi>Jews</hi> from the Superstition and <hi>Idola<g ref="char:EOLhyphen"/>try</hi>
+                  <pb n="10" facs="tcp:152924:10"/>of the <hi>Heathen</hi> World, a<g ref="char:EOLhyphen"/>mong whom this was also a so<g ref="char:EOLhyphen"/>lemn <hi>Festival time;</hi> now where<g ref="char:EOLhyphen"/>as several of the <hi>Gentiles</hi> sacri<g ref="char:EOLhyphen"/>ficed to the <hi>Moon</hi> it self, the Peo<g ref="char:EOLhyphen"/>ple of God at the same time were order'd to sacrifice to <hi>him.</hi> 2. In thankful <hi>Remembrance</hi> of God's <hi>creating</hi> of that <hi>useful Light,</hi> and <hi>reviving</hi> it, as it were, after its <hi>Monthly Declension</hi> and Disappearance. 3. As an <hi>Ac<g ref="char:EOLhyphen"/>knowledgment</hi> of the <hi>Providence</hi> of God, in the successive Chan<g ref="char:EOLhyphen"/>ges of <hi>Times and Seasons,</hi>
+                  <note place="margin">Gen. 1.14.</note> which the Moon was originally ordain<g ref="char:EOLhyphen"/>ed for. 4. That they might learn to <hi>conseorate the First Fruits</hi> of all their Time to God; not only the <hi>beginning of the Year,</hi> but of <hi>every Month</hi> throughout the Year. 5. That they might be put in mind of the <hi>Renova<g ref="char:EOLhyphen"/>tion</hi> of the Church in the <hi>fulness of time,</hi> by Jesus Christ, the <hi>Sun
+<pb n="11" facs="tcp:152924:10"/>of Righteousness,</hi> as the Moon hath that Light renew'd every Month, which she borrows by reflexion from the <hi>Natural Sun.</hi>
+               </p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Of the like kind is the <hi>Lord's Supper,</hi> which the Text may fitly enought be ac<g ref="char:EOLhyphen"/>commodated to. The <hi>Jewish New-Moons</hi> are indeed abolished by the Death of our <hi>Lord Jesus,</hi> and therefore the <hi>Apostle</hi> says,<note place="margin">Col. 2.16.</note>
+                  <hi>Let no man judge you in respect of them; i.e.</hi> let none condemn or censure you for laying them a<g ref="char:EOLhyphen"/>side. But yet the Holy Ghost <hi>alludes</hi> to them still, when he speaks of the <hi>Gospel Times;</hi> wit<g ref="char:EOLhyphen"/>ness that remarkable Prophecy, <hi>It shall come to pass from one New-Moon to another,</hi>
+                  <note place="margin">Isa. 66.23.</note>
+                  <hi>and from one Sabbath to another, that all flesh shall come to worship before me, saith the Lord.</hi> A stated <hi>Course</hi> of Publick Divine Worship is
+<pb n="12" facs="tcp:152924:11"/>as necessary to be kept up and maintained now in the <hi>New-Testament</hi> Church, as ever here<g ref="char:EOLhyphen"/>tofore in the times of the <hi>Old-Testament.</hi> We have our <hi>Week<g ref="char:EOLhyphen"/>ly Christian Sabbaths</hi> instituted by God; and we have our <hi>Monthly Communions</hi> at the <hi>Lord's Table</hi> also. 'Tis true, we cannot pre<g ref="char:EOLhyphen"/>tend that God hath <hi>positively commanded</hi> them to be every Month; he seems to have left us at liberty to agree among our selves,<note place="margin">1 Cor. 11.26.</note>
+                  <hi>How often we shall eat of this bread, and drink of this Cup;</hi> and all Churches have the Privi<g ref="char:EOLhyphen"/>lege of determining their own Practice in the Case: But I may say (I hope, without giving cause of Offence to any), 1. That this very <hi>Prophecy</hi> would <hi>lead</hi> us to fix upon a <hi>Monthly Revolution,</hi> rather than any <hi>other Period</hi> of time; though perhaps it do not prescribe any such thing, yet it
+<pb n="13" facs="tcp:152924:11"/>will give countenance to it. 2. Such a <hi>distance</hi> between one <hi>Sacrament-Season</hi> and another, seems to be a very good <hi>Medium</hi> between too great <hi>Frequency,</hi> which might occasion <hi>Slightness,</hi> and too great <hi>Rarity,</hi> which might produce <hi>Forgetfulness.</hi> 3. The general <hi>Custom</hi> of other <hi>Churches of Christ</hi> may very just<g ref="char:EOLhyphen"/>ly sway us in <hi>a good thing,</hi>
+                  <note place="margin">1 Cor. 11.16.</note> against which we can make no reasona<g ref="char:EOLhyphen"/>ble Exception. 4. When any Churches have settled such a <hi>Method</hi> and <hi>Rule</hi> by <hi>common Con<g ref="char:EOLhyphen"/>sent,</hi> particular Members can hardly take much satissaction in the breach and tansgression of it.</p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> What <hi>Omissions</hi> of these solemn Services are sinful?</p>
+               <p>
+                  <hi>Ans.</hi> Under Two Heads.</p>
+               <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> Every <hi>Single</hi> Omission is <hi>sinful,</hi> when it is <hi>voluntary</hi> and
+<pb n="14" facs="tcp:152924:12"/>
+                  <hi>avoidable.</hi> Where the Perform<g ref="char:EOLhyphen"/>ance is naturally <hi>impossible,</hi> the Omission is undoubtedly <hi>lawful</hi> and innocent; but when the thing <hi>can be</hi> done, and we do it not, or put it out of our own power, 'tis not only an <hi>Omission,</hi> but a <hi>Neglect.</hi>
+               </p>
+               <p n="1">1. When we may do it, and yet <hi>leave it undone,</hi> there is sin in the omitting of it. Little <hi>Incon<g ref="char:EOLhyphen"/>veniences</hi> will not exempt us; but rather, great <hi>Difficulties</hi> and <hi>Impediments</hi> are to be encoun<g ref="char:EOLhyphen"/>ter'd and overcome. Many <hi>Ex<g ref="char:EOLhyphen"/>cuses</hi> are made, very like to those in the <hi>Parable</hi> of the <hi>Great Sup<g ref="char:EOLhyphen"/>per,</hi> which were all vain and frivolous.<note place="margin">Luke 14.18. 19.</note> One had <hi>bought a piece of ground, and he must needs go and see it:</hi> Another <hi>had bought five yoke of oxen, and he must go and prove them;</hi> (whereas there was no <hi>necessity</hi> of either at that time, and the Supper which
+<pb n="15" facs="tcp:152924:12"/>they were bidden to, was far more worth and of greater <hi>con<g ref="char:EOLhyphen"/>sequence</hi>
+                  <note place="margin">Luke 14.20.</note> than both): A third had entred into a <hi>New Relation,</hi> and he cires, <hi>I cannot come;</hi> (when indeed the fault was in the <hi>Will,</hi> not in the want of Power; and 'tis most undenia<g ref="char:EOLhyphen"/>ble, that whatsoever Relation hinders us from Duty, it is a <hi>Snare</hi> and a Curse to us.)</p>
+               <p n="2">2. When we <hi>disable our selves,</hi> and put it out of our own power, by <hi>our own act,</hi> we cannot justify our selves in the Omission. It is confess'd, That the man <hi>who was in a journey afar off,</hi>
+                  <note place="margin">Num. 9.13.</note> was per<g ref="char:EOLhyphen"/>mitted by God to <hi>forbear the keeping of the Passover at the ap<g ref="char:EOLhyphen"/>pointed season;</hi> because then he was really uncapable of doing it. But if a man had taken a Journey just <hi>at such a time,</hi> which might have been <hi>prevented</hi> or <hi>put off,</hi> which he might have
+<pb n="16" facs="tcp:152924:13"/>taken <hi>sooner</hi> or <hi>later,</hi> or which he might not have taken <hi>at all,</hi> without any considerable da<g ref="char:EOLhyphen"/>mage, 'tis not to be imagined that this <hi>Permission</hi> would reach him. <hi>David</hi>'s Excuse, urged by <hi>Jonathan</hi> here in the words fol<g ref="char:EOLhyphen"/>lowing the Text, <note place="margin">V. 28.</note> That <hi>he earnest<g ref="char:EOLhyphen"/>ly asked leave to go to Bethlehem,</hi> was not esteemed sufficient by <hi>Saul,</hi> nor would it really have been sufficient in it self, if <hi>Da<g ref="char:EOLhyphen"/>vid</hi> could have attended the Fe<g ref="char:EOLhyphen"/>stivity of the <hi>New-Moon,</hi> with<g ref="char:EOLhyphen"/>out the hazard of his Life.</p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Repeated</hi> Omissions are further <hi>aggravated.</hi> If it be sinful to omit <hi>once,</hi> 'tis much more so to do it <hi>oftner.</hi> This was that which heated the Spi<g ref="char:EOLhyphen"/>rit of <hi>Saul</hi> in the Text, That <hi>David came not to meat, neither yesterday nor to day.</hi> The <hi>first</hi> Offence is great, the <hi>second</hi> is doubly hainous; the first is
+<pb n="17" facs="tcp:152924:13"/>
+                  <hi>turning aside</hi> out of the way of Duty, the second is <hi>going on</hi> in a road of Wickedness; the first is barely and <hi>act of sin,</hi> the se<g ref="char:EOLhyphen"/>cond is a means of producing and settling a <hi>sinful habit;</hi> the first tends to <hi>defile</hi> the Consci<g ref="char:EOLhyphen"/>ence, the second to <hi>sear</hi> it. They that do it once in com<g ref="char:EOLhyphen"/>pliance with a <hi>strong temptation,</hi> will be apt to do it again upon a <hi>weak temptation,</hi> and probably a third time <hi>without any temptation</hi> at all, through the <hi>increased cor<g ref="char:EOLhyphen"/>ruption</hi> of their own hearts. The <hi>addition</hi> of <hi>sin to sin</hi> makes way for endless <hi>multiplication;</hi> like the true <hi>Plauge of Leprosy,</hi> which was seldom at <hi>at a stay</hi> (if let a<g ref="char:EOLhyphen"/>one), but <hi>spreading further.</hi> Mens <hi>absenting</hi> of themselves from the <hi>Lord's Table</hi> one Month, prepares the Soul for the like lisorderly practice <hi>Month after Month,</hi> till they almost <hi>forget to
+<pb n="18" facs="tcp:152924:14"/>eat</hi> this <hi>Bread.</hi> What is this, but a scandalous and fatal <hi>trea<g ref="char:EOLhyphen"/>suring up</hi> of <hi>Guilt</hi> and <hi>Wrath</hi> against our selves? <hi>Thomas</hi> (as <hi>weak a Believer</hi> as most that we meet with in the History of the Gospel) was not with the Disci<g ref="char:EOLhyphen"/>ples <hi>one time,</hi>
+                  <note place="margin">John 20.24, 26.</note> when <hi>Christ</hi> came among them, but he was pre<g ref="char:EOLhyphen"/>sent the <hi>next.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> How are these O<g ref="char:EOLhyphen"/>missions to be <hi>accounted for?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Three ways.</p>
+               <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> To <hi>God.</hi> He will make strict <hi>Inquisition,</hi> and sit as Judge upon the case; before whom all our <hi>Reasons</hi> are to be brought forth, if we have any to al<g ref="char:EOLhyphen"/>ledge, and by whom it will be finally decided, whether they are valid and cogent or not Thought we may sometime (especially in <hi>numerous</hi> Assem<g ref="char:EOLhyphen"/>blie
+<pb n="19" facs="tcp:152924:14"/>blies of Saints) escape the no<g ref="char:EOLhyphen"/>tices of Men like our selves, yet God observes when we <hi>come to this Meat,</hi> and when we <hi>stay from it.</hi> He <hi>sees</hi> what Crea<g ref="char:EOLhyphen"/>tures <hi>overlook;</hi> he <hi>remembers</hi> what we our selves <hi>forget;</hi> and he will <hi>call to remembrance</hi> what we <hi>endeavour</hi> (it may be) to bury in <hi>Oblivion.</hi>
+                  <note place="margin">Jer. 2, 22.</note>
+                  <hi>Our Iniquity is marked before him.</hi> Every time that we <hi>walk not</hi> in this or that Ordinance, when we are bound to do it, is <hi>written</hi> down; it stands upon Record in Hea<g ref="char:EOLhyphen"/>ven, and will be charg'd upon us before the Bar of God, and we made to answer for it. This will be a sad and fearful Ac<g ref="char:EOLhyphen"/>count; for there will be no <hi>hi<g ref="char:EOLhyphen"/>ding</hi> or palliating of sin then; no <hi>pretending</hi> of that which is not; the <hi>naked truth</hi> of every fact will be laid open, and Sen<g ref="char:EOLhyphen"/>tence accordingly pronounc'd.</p>
+               <pb n="20" facs="tcp:152924:15"/>
+               <p> Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> To <hi>Ministers</hi> and <hi>Fellow Christians.</hi> Whatever the <hi>Pride</hi> of mens hearts suggest to the contrary, they do really <hi>owe</hi> an account of themselves, and of their actions and omissions which are justily suspected as sin<g ref="char:EOLhyphen"/>ful, to those under whose <hi>In<g ref="char:EOLhyphen"/>spection</hi> they are, and whom they join in the <hi>fellowship of the Gospel</hi> with.<note place="margin">1 Pet. 3.15.</note> If we should be ready to give an answer to <hi>eve<g ref="char:EOLhyphen"/>ry man</hi> that asketh us a <hi>reason of our hope,</hi> how much more ready should we be to give satisfacti<g ref="char:EOLhyphen"/>on to them whom in <hi>spiritual bonds</hi> we are so <hi>nearly related</hi> to, concerning the <hi>reasons of our practice?</hi> It is usually a sign that men are <hi>already</hi> very <hi>irregular,</hi> or <hi>intend</hi> and resolve to be so, when they set up themselves as <hi>unaccountable.</hi> It is not a ratio<g ref="char:EOLhyphen"/>nal thing, that he who is the <hi>Steward of God's Mysteries</hi> to any
+<pb n="21" facs="tcp:152924:15"/>persons, should know why they do not <hi>attend</hi> upon them? And is it not a righteous thing, that the <hi>Guests at the same Table,</hi> who are justly <hi>offended</hi> at their forbearance, should be made sensible of the causes of it?</p>
+               <p>Thirdly, To <hi>our own Consci<g ref="char:EOLhyphen"/>ences.</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> A man's Conscience is God's <hi>Deputy,</hi> and by Authority deriv'd from God, keeps a <hi>Court</hi> within us, where what we do or do not, is to be sifted and weigh'd, examin'd and censur'd, as it deserves. Conscience is a Noble Faculty implanted in the Soul, and divinely impower'd to take cognizance of <hi>every work,</hi> of every <hi>Religious Performance,</hi> and of every <hi>Sinful Negligence.</hi> And whosoever he be that does not <hi>take</hi> an account of these things frequently, and <hi>demand</hi> it of himself impartially, he <hi>is</hi> dangerously harden'd, and <hi>in
+<pb n="22" facs="tcp:152924:16"/>the way</hi> of further hardening. There is a dismal Wo hanging over those that labour to <hi>stop the mouth</hi> of Conscience, and to <hi>stifle</hi> the arguings of their own hearts, and thereby to <hi>deceive themselves.</hi> It is our highest Interest to <hi>deal faithfully</hi> in this case; and if we do so, we shall find that there are many <hi>Pleas</hi> for the omitting of Duty, not to be <hi>disprov'd</hi> or confuted by others, which will neverthe<g ref="char:EOLhyphen"/>less be <hi>rejected</hi> by an awaken'd mind.</p>
+               <p>
+                  <hi>Fourthly,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Why must such Omissions be thus accounted for?</p>
+               <p>
+                  <hi>Ans.</hi> The <hi>Reasons</hi> are ma<g ref="char:EOLhyphen"/>nifest.</p>
+               <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> Beeause Sins of Omis<g ref="char:EOLhyphen"/>sion are <hi>damning</hi> as well as o<g ref="char:EOLhyphen"/>thers, if not repented of; and
+<pb n="23" facs="tcp:152924:16"/>how do we repent of them, when we live and persist in them? The Wages of <hi>every sin</hi> (whether of Omission or Commission) is death; and when our Lord describes the <hi>Process</hi> of the Great and Last Day, 'tis observable that he on<g ref="char:EOLhyphen"/>ly fastens upon <hi>Sins of Omission,</hi> because those are generally least regarded by us, though as great<g ref="char:EOLhyphen"/>ly destructive to us as any what<g ref="char:EOLhyphen"/>soever; <hi>I was hungry,</hi>
+                  <note place="margin">Mat. 25 41, 42, <hi>&amp;c.</hi>
+                  </note>
+                  <hi>and you gave me no meat; I was thirsty, and you gave me no drink,</hi> &amp;c. So <hi>Christ</hi> may (and will) say to many, I provided for your <hi>Spiritual Necessities,</hi> but you re<g ref="char:EOLhyphen"/>fus'd my provision. I spread my <hi>Table</hi> for you, but you turned your backs upon it. We are bound <hi>to do</hi> good, as well as <hi>not to do</hi> evil: Acts of Wor<g ref="char:EOLhyphen"/>ship are as strictly <hi>commanded,</hi> as Acts of Licentiousness are
+<pb n="24" facs="tcp:152924:17"/>
+                  <hi>forbidden.</hi> wrath is revealed from heaven against the <hi>Fa<g ref="char:EOLhyphen"/>milies that call not on God's Name,</hi>
+                  <note place="margin">Jerem 10.25.</note> as well as those that <hi>blas<g ref="char:EOLhyphen"/>pheme it.</hi>
+               </p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Such Omissions are not only a <hi>Contempt</hi> of God's <hi>Authority,</hi> but of our own in<g ref="char:EOLhyphen"/>estimable <hi>Privilege.</hi> We trans<g ref="char:EOLhyphen"/>gress a <hi>clear Precept</hi> of the Law, and despise the most <hi>pre<g ref="char:EOLhyphen"/>cious Ordinance</hi> of the Gospel; as the <hi>Jews</hi> of old were arraign<g ref="char:EOLhyphen"/>ed for slighting the promised <hi>pleasant Land.</hi>
+                  <note place="margin">Psal. 106.24.</note> It is an Affront to the Goodness and <hi>Grace,</hi> as well as Sovereignty of God, to decline partaking of this blessed Institution, at any of those so<g ref="char:EOLhyphen"/>lemn <hi>Set Times</hi> when we are called to it. 'Tis the vilest <hi>In<g ref="char:EOLhyphen"/>gratitude</hi> for an exceeding va<g ref="char:EOLhyphen"/>luable Kindness. 'Tis an in<g ref="char:EOLhyphen"/>flicting of that <hi>Punishment upon our selves,</hi> which God threatens
+<pb n="25" facs="tcp:152924:17"/>as one of the <hi>sorest</hi> that can be inflicted:<note place="margin">Hos. 2.11.</note>
+                  <hi>I will cause her feast days to cease, her new-moons, and her sabbaths,</hi> &amp;c. We make them <hi>cease to us,</hi> when we do not at<g ref="char:EOLhyphen"/>tend upon God in them, and so we become the <hi>barbarous Execu<g ref="char:EOLhyphen"/>tioners</hi> of our own Curse.</p>
+               <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> The <hi>Examples</hi> even of <hi>bad men</hi> will upbraid us in this case, and be produced <hi>in judgment</hi> against us. Some <hi>car<g ref="char:EOLhyphen"/>nal</hi> persons have such an awful sense of the necessity of such Duties imprest upon them by <hi>Natural Conscience,</hi> that they do not dare to pass them over, though they be in the miserable state of those <hi>defiled and unbe<g ref="char:EOLhyphen"/>lieving,</hi> to whom <hi>nothing is pure.</hi> As wicked as <hi>Saul</hi> was, yet we find him very careful and exact in the keeping of this <hi>Feast of the New-Moon;</hi> and he would have his Chief Princes, his
+<pb n="26" facs="tcp:152924:18"/>Great Men, and his Courtiers, to keep it with him, as <hi>Jona<g ref="char:EOLhyphen"/>than,</hi> and <hi>Abner,</hi>
+                  <note place="margin">V. 25.</note> and <hi>David.</hi> The <hi>Jews,</hi> when they were at worst, when compared to the <hi>men of Sodom,</hi> and <hi>people of Gomorrah,</hi> yet did not grow slack or remiss as to their <hi>Solemn Festivals,</hi> though the allowed filthiness of their hearts and lives made them nauseous and abominable to God.<note place="margin">Isa. 1.14.</note>
+                  <hi>Your new<g ref="char:EOLhyphen"/>moons and your appointed feasts my soul hateth;</hi> which plainly implies that they held on the observation of them. If <hi>Hy<g ref="char:EOLhyphen"/>pocrites</hi> have so much of the <hi>Form,</hi> 'tis no better than <hi>Pro<g ref="char:EOLhyphen"/>phaneness</hi> for any to be defective in it.</p>
+               <p>
+                  <hi>Fifthly, </hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/> To make some short <hi>Ʋse</hi> and Application of the whole.</p>
+               <pb n="27" facs="tcp:152924:18"/>
+               <p> First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> What account will they give to God, to others, or to themselves, that <hi>never sit down to</hi> Sacramental <hi>Meat?</hi> That go on in the constant Neglect of it <hi>many years</hi> one after another, and perhaps <hi>all their life long?</hi> And are no more concern'd about it, than if <hi>Je<g ref="char:EOLhyphen"/>sus Christ</hi> had never said, <hi>Do this in remembrance of me;</hi> or than if the <hi>Holy Ghost</hi> had ne<g ref="char:EOLhyphen"/>ver reported it? If we can suppose that a person may live in the conscientious practice of <hi>all other</hi> Duties, who fails in <hi>this,</hi> is it not the more to be lamented, that such an one should <hi>locak one thing?</hi> That there should be any particu<g ref="char:EOLhyphen"/>lar branch of God's Service<g ref="char:EOLhyphen"/>totally laid aside, when the rest of the things which Christ
+<pb n="28" facs="tcp:152924:19"/>hath commanded, seem to be done so well? Far be it from me to limit God's <hi>pardoning Mercy,</hi> where this Guilt is con<g ref="char:EOLhyphen"/>tracted upon <hi>mistaken Scruples;</hi> nor can I tell how far a <hi>ge<g ref="char:EOLhyphen"/>neral Repentance</hi> may be ac<g ref="char:EOLhyphen"/>cepted for <hi>this Sin,</hi> when it is <hi>of Ignorance;</hi> but surely <hi>fer<g ref="char:EOLhyphen"/>vent Prayer,</hi> and <hi>serious Medi<g ref="char:EOLhyphen"/>tation,</hi> and <hi>free Conference</hi> with Men of Understanding in the things of God, would soon dissolve all the <hi>Objections</hi> that can be rais'd against an <hi>ex<g ref="char:EOLhyphen"/>press Institution:</hi> And where such Means are neglected, the Ignorance is <hi>wilful,</hi> and does not <hi>lessen</hi> the sin, but <hi>heaps ano<g ref="char:EOLhyphen"/>ther</hi> upon it.</p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> What Account will they give, that <hi>disuse</hi> this Service <hi>oftner</hi> than they ap<g ref="char:EOLhyphen"/>proach
+<pb n="29" facs="tcp:152924:19"/>unto God in it? That refuse <hi>more</hi> Invitations to this <hi>Feast,</hi> than they accept; and come much <hi>seldomer</hi> than they forbear? We do not <hi>miss</hi> them <hi>once or twice</hi> only (as <hi>David</hi> here was wanting the <hi>first</hi> and <hi>second</hi> day of the Month), but perhaps if they <hi>appear Three times in the year</hi> in this manner before the Lord, they are ready to acquit themselves, as if they had done their Du<g ref="char:EOLhyphen"/>ty. It is grown customary with some <hi>large Professors,</hi> to be seen now and then at <hi>Christ's Table,</hi> but their Seats are empty <hi>days without number.</hi> A<g ref="char:EOLhyphen"/>las! a <hi>Month's Interval</hi> is too little for them; the <hi>Returns</hi> of this Ordinance are too quick and speedy; they can tarry <hi>longer</hi> away, and think that they sustain no loss. But let
+<pb n="30" facs="tcp:152924:20"/>all such know, That if their Souls were <hi>in health,</hi> their <hi>Ap<g ref="char:EOLhyphen"/>petites</hi> would be sharper; and it is much to be feared, that they <hi>get no good</hi> by coming, who reckon themselves <hi>no lo<g ref="char:EOLhyphen"/>sers</hi> by forbearing. If the Or<g ref="char:EOLhyphen"/>dinance be an effectual means of our <hi>Improvement,</hi> the <hi>Re<g ref="char:EOLhyphen"/>petition</hi> of it will be desira<g ref="char:EOLhyphen"/>ble. <hi>Experience of Advantage,</hi> join'd with <hi>Conscience of Duty,</hi> would be mighty <hi>Goads</hi> and Spurs to us.</p>
+               <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> What Account will they be able to give of their <hi>Performance,</hi> who make no more of it than if it were a <hi>Common Act?</hi> That <hi>come</hi> to such an Appointment <hi>as if they came not,</hi> without a se<g ref="char:EOLhyphen"/>rious, reverent, and becoming Frame, and <hi>go away</hi> from it
+<pb n="31" facs="tcp:152924:20"/>again without any Alteration or Amendment? How many <hi>sit to eat with</hi> (Jesus Christ) <hi>a ruler,</hi>
+                  <note place="margin">Prow. 23.1.</note>
+                  <hi>and consider not what is before them,</hi> so diligently as they should, and afterwards <hi>rise up,</hi> and scarcely reflect upon what they have been doing? I must say, That ex<g ref="char:EOLhyphen"/>cepting the <hi>Scandal</hi> of Omis<g ref="char:EOLhyphen"/>sion, <hi>with respect to others,</hi> this is worse than not com<g ref="char:EOLhyphen"/>ing at all, <hi>with relation to the Persons themselves:</hi> Their Ab<g ref="char:EOLhyphen"/>sence is a <hi>Sin,</hi> but their At<g ref="char:EOLhyphen"/>tendance is <hi>a greater.</hi> With<g ref="char:EOLhyphen"/>out controversy, they whose Hearts are best <hi>prepared for</hi> such a Work, and most <hi>fixed in</hi> it, find cause enough up<g ref="char:EOLhyphen"/>on a Review, of deep <hi>Humi<g ref="char:EOLhyphen"/>liation,</hi> (for if God should <hi>enter into judgment</hi> with the Holiest Communicants, that
+<pb n="32" facs="tcp:152924:21"/>very Action might <hi>become sin</hi> to them; and the <hi>Disciples</hi> that eat and drank in their Lord's <hi>Personal Presence</hi> were guilty of a <hi>more than ordina<g ref="char:EOLhyphen"/>ry Fault);</hi>
+                  <note place="margin">Luke 22.24.</note> but 'tis a very dif<g ref="char:EOLhyphen"/>ferent case, when men take no care about the <hi>frame of their Spirits</hi> before or after their coming, but are as re<g ref="char:EOLhyphen"/>gardless in that Point, as they would or could be at a <hi>Civil Entertainment.</hi>
+               </p>
+               <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> Let us therefore resolve to <hi>continue stedfastly</hi> in this Duty, and apply our selves to a <hi>right Discharge</hi> of it.</p>
+               <p n="1">1. Let us resolve to <hi>conti<g ref="char:EOLhyphen"/>nue stedfastly</hi> in it; as the <hi>first Christians</hi> in the Aposto<g ref="char:EOLhyphen"/>lical times are said to do, <hi>in
+<pb n="33" facs="tcp:152924:21"/>breaking of Bread,</hi>
+                  <note place="margin">Acts 2.42.</note> as well as in <hi>Prayers,</hi> and Hearing. How do our <hi>Stomachs</hi> (unless they be habitually or accidental<g ref="char:EOLhyphen"/>ly <hi>indisposed</hi>) crave their <hi>Na<g ref="char:EOLhyphen"/>tural Refreshments</hi> at the <hi>usu<g ref="char:EOLhyphen"/>al times,</hi> that we know not how to miss <hi>a Meal,</hi> without some uneasiness? And dare we to say, that Spiritual En<g ref="char:EOLhyphen"/>joyments are to be <hi>less covet<g ref="char:EOLhyphen"/>ed,</hi> or that they may be <hi>bet<g ref="char:EOLhyphen"/>ter spared?</hi> There is none, I am persuaded, that <hi>nameth the Name of Christ,</hi> who can al<g ref="char:EOLhyphen"/>low himself in any such Ima<g ref="char:EOLhyphen"/>gination. What is is then that should make us so <hi>wa<g ref="char:EOLhyphen"/>vering</hi> and <hi>unstable</hi> in this part of Religion? Let these Two things be remembred, to quick<g ref="char:EOLhyphen"/>en and excite us to greater Con<g ref="char:EOLhyphen"/>stancy.</p>
+               <p n="1">
+                  <pb n="34" facs="tcp:152924:22"/> (1.) No wonder that we lose the benefit of <hi>former</hi> Sa<g ref="char:EOLhyphen"/>crament-Seasons, if we omit those that <hi>come after:</hi> If we do not use the means of <hi>in<g ref="char:EOLhyphen"/>creasing</hi> Grace, it will be <hi>di<g ref="char:EOLhyphen"/>minished: Then shall we know, if we follow on to know the Lord.</hi>
+                  <note place="margin">Hos. 6.3.</note>
+               </p>
+               <p n="2">(2.) We are notoriously <hi>self-condemned,</hi> when we have <hi>once engaged</hi> in such a Service, if we <hi>desist</hi> from it. Our <hi>own works</hi> will <hi>witness against</hi> us, as against them that have done good, and leave off to do it. If it be not a necessa<g ref="char:EOLhyphen"/>ry Service, why did we ever <hi>undetake</hi> it? If it be, why do we <hi>discontinue</hi> it?</p>
+               <p n="2">2. Let us apply our selves to a <hi>right Discharge</hi> of this
+<pb n="35" facs="tcp:152924:22"/>Duty. It is too <hi>weighty a mat<g ref="char:EOLhyphen"/>ter</hi> to be trifled in; <hi>Eating the flesh and drinkingthe Blood of Christ,</hi> is no light thing, but of the highest Importance on this side of Eternity. The mere <hi>work done</hi> will avail us nothing, but we must look after the <hi>manner of doing.</hi> As <hi>Aaron</hi> said,<note place="margin">Levit. 10.19.</note>
+                  <hi>If I had eaten the sin offering to day, should it have been accepted in the sight of the Lord?</hi> So may we truly say, if we attend Divine So<g ref="char:EOLhyphen"/>lemnities in an unsuitable car<g ref="char:EOLhyphen"/>nal frame, Will this be ap<g ref="char:EOLhyphen"/>proved of God? No, certain<g ref="char:EOLhyphen"/>ly: He who indispensibly re<g ref="char:EOLhyphen"/>quires <hi>the thing,</hi> will punish our <hi>sinful Disorder.</hi> Go then about this work with <hi>Earnest Endeavours</hi> that it may be <hi>plea<g ref="char:EOLhyphen"/>sing</hi> unto God, and with <hi>chear<g ref="char:EOLhyphen"/>ful Hopes</hi> likewise that (in so
+<pb n="36" facs="tcp:152924:23"/>doing) it will be <hi>profitable</hi> to your selves; for God is <hi>emi<g ref="char:EOLhyphen"/>nently</hi> pleased with it when it is duly performed, and sincere Believers are <hi>as eminently</hi> pro<g ref="char:EOLhyphen"/>fited.</p>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:152924:23"/>
+            <head>
+               <hi>Books Printed for, and Sold by</hi> Thomas Cockerill, Sen<seg rend="sup">r</seg> &amp; Jun<seg rend="sup">r</seg>, <hi>at the</hi> Three Legs <hi>in the</hi> Poultrey.</head>
+            <list>
+               <item>GOD the Guide of Youth, briefly open'd and urg'd, in a Sermon preach'd with a special Relation to Young Persons, <hi>Jan.</hi> 1. 1695.</item>
+               <item>The Wonders of a Merciful Provi<g ref="char:EOLhyphen"/>dence.</item>
+               <item>A Funeral Sermon on Mrs. <hi>Smith.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>These Three by <hi>T. Cruso.</hi>
+                     </head>
+                     <item>
+                        <hi>Speculum Theologiae in Christo;</hi> or a view of some Divine Truths; by <hi>Edward Polhill,</hi> of <hi>Burwash</hi> in <hi>Sussex,</hi>
+                        <abbr>Esq.</abbr>
+                     </item>
+                     <item>The Morning Exercise at <hi>Cripplegate:</hi> Or several Cases of Conscience practically Re<g ref="char:EOLhyphen"/>solved by sundry Ministers. 4 <hi>to.</hi>
+                     </item>
+                     <item>A Supplement to the Morning Exer<g ref="char:EOLhyphen"/>cise; or several more Cases of Conscience practically resolved by sundry Ministers.</item>
+                  </list>
+               </item>
+               <item>Instructions about Heart-Work, what is to be done on God's part and ours, for the cure and keeping of the Heart, <hi>&amp;c.</hi> By that Eminent Gospel-Minister, Mr. <hi>Richard Alleyn.</hi> With a Preface by Dr. <hi>Annesley.</hi> The Second Edition. <hi>Octavo.</hi>
+               </item>
+               <item>The Evidence of Things not seen: Or
+<pb facs="tcp:152924:24"/>divers Spiritual and Philosophical Discour<g ref="char:EOLhyphen"/>ses, concerning the state of Holy men after Death: By that eminently Learned Divine, <hi>Moses Amyraldus.</hi> Translated out of the <hi>French</hi> Tongue by a Minister of the Church of <hi>England.</hi>
+               </item>
+               <item>A Succinct and Seasonable Discourse of the Occasions, Causes, Natures, Rise, Growth, and Remedies of <hi>Mental Errors.</hi> To which is added, (1). An Answer to Mr. <hi>Cary</hi> a<g ref="char:EOLhyphen"/>gainst Infant-Baptism. (2). An Answer to some <hi>Antinomian</hi> Errors. (3). A Sermon about Union. By <hi>John Flavel.</hi>
+               </item>
+               <item>Mr. <hi>John Flaver</hi>'s Remains; being two Sermons: The one preached at <hi>Dartmouth</hi> in <hi>Devon</hi> on the day of the Coronation of Their Majesties. The latter intended to be preached at a Meeting of the United Mi<g ref="char:EOLhyphen"/>nisters of several Counties. With some ac<g ref="char:EOLhyphen"/>count of his Life.</item>
+               <item>A Discourse of Regeneration, Faith and Repentance: Preach'd at the Merchants Le<g ref="char:EOLhyphen"/>cture in <hi>Broadstreet.</hi> By <hi>Tho. Cole,</hi> Minister of the Gospel.</item>
+               <item>A Discourse of Christian Religion in sundry points; Preached at the Merchants Lecture. By <hi>Tho. Cole.</hi>
+               </item>
+               <item>
+                  <hi>Christus in Corde:</hi> Or the Mystical Union between Christ and Believers, considered in its resemblances, bonds, seals, priviledges and marks. By <hi>Edward Polhill,</hi>
+                  <abbr>Esq.</abbr>
+               </item>
+               <item>A Discourse of the Gospel of Peace, and of the government of our own Spi<g ref="char:EOLhyphen"/>rits: Being the substance of divers Ser<g ref="char:EOLhyphen"/>mons,
+<pb facs="tcp:152924:24"/>from <hi>Eph.</hi> 6.15. and <hi>Prov.</hi> 16.32. lately preached by <hi>John Faldo,</hi> Minister of the Gospel.</item>
+               <item>Precious Faith considered in its Nature, Working, and Growth. By <hi>Edward Pol<g ref="char:EOLhyphen"/>hill,</hi>
+                  <abbr>Esq.</abbr>
+               </item>
+               <item>A Discourse concerning Trouble of Mind, and the Disease of Melancholy; in Three Parts; written for the use of such as are or have been exercised by the same; by <hi>Tim. Rogers,</hi> M. A. who was long afflicted with both. To which is added some Let<g ref="char:EOLhyphen"/>ters from several Divines, relating to the same Subject.</item>
+               <item>Love to Christ necessary for all, to escape the Curse at his coming. By <hi>Tho. Doolittle,</hi> M. A.</item>
+               <item>An Exposition of the Assemblies Shorter Catechism, with Practical Inferences from each Question. By <hi>John Flavell,</hi> late Mini<g ref="char:EOLhyphen"/>ster of the Gospel at <hi>Dartmouth</hi> in <hi>Devon.</hi>
+               </item>
+               <item>A Discourse of Secret Prayer, first preach<g ref="char:EOLhyphen"/>ed and now published at the Request of those that heard it. By <hi>Samuel Slater,</hi> Minister of the Gospel.</item>
+               <item>The Future State; or a Discourse at<g ref="char:EOLhyphen"/>tempting some display of the Soul's Hap<g ref="char:EOLhyphen"/>piness, in regard to that eternally progres<g ref="char:EOLhyphen"/>sive knowlege, or eternal increase of know<g ref="char:EOLhyphen"/>ledge, and the consequence of it, which is among the blessed in Heaven; by a Coun<g ref="char:EOLhyphen"/>trey Gentleman, a Worshipper of God in the way of the Church of <hi>England.</hi>
+               </item>
+               <pb facs="tcp:152924:25"/>
+               <item> A Week of Soliloquies and Prayers, with a Preparation to the Holy Communion, and other Devotions added to this Edition, in two parts. By <hi>Peter Du-Moulin,</hi> D. D.</item>
+               <item>A Discourse of the Reasonableness of Personal Reformation, and Necessity of Conversion, the true method of making all men happy in this world, and in the world to come: Seasonably discoursed, and ear<g ref="char:EOLhyphen"/>nestly pressed on this licentious Age; by <hi>John Flavell,</hi> a sincere lover of his Native Countrey, and the Souls of men.</item>
+               <item>The last Legacy of <hi>Henry Care,</hi> Gent. lately deceased, containing a brief sum of Christian Doctrine, by way of Question and Answer; particularly relating to seve<g ref="char:EOLhyphen"/>ral of the most important Points contro<g ref="char:EOLhyphen"/>verted between us and the <hi>Romanists.</hi> Stitcht.</item>
+               <item>The Death of Ministers improved; or an Exhortation to the Inhabitants of <hi>Hort<g ref="char:EOLhyphen"/>ley</hi> in <hi>Glocestershine,</hi> and others, on the much lamented death of that faithful Minister Mr. <hi>Henry Stubbs;</hi> To which is added a Ser<g ref="char:EOLhyphen"/>mon upon that occasion; by <hi>Richard Baxter.</hi>
+               </item>
+               <item>English Exercises for School boys to tran<g ref="char:EOLhyphen"/>slate into Latin, comprizing all the Rules of Grammar, and other necessary Observa<g ref="char:EOLhyphen"/>tions, ascending gradually from the mean<g ref="char:EOLhyphen"/>est to the highest Capacities. By <hi>John Gar<g ref="char:EOLhyphen"/>retson,</hi> Schoolmaster. Sixth Edition.</item>
+               <item>A Companion for Prayer, or Directions for Improvement in Grace, and practical Godliness in times of extraordinary danger. By <hi>Richard Allen.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:152924:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
